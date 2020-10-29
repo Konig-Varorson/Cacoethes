@@ -1,0 +1,794 @@
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset" 0
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/Aim_Space_Hip.uasset" 1
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/Aim_Space_Ironsights.uasset" 2
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/Crouch_to_Stand_Rifle_Hip.uasset" 3
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/Crouch_to_Stand_Rifle_Ironsights.uasset" 4
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Ironsights.uasset" 5
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/Crouch_Walk_Lt_Rifle_Ironsights.uasset" 6
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/Crouch_Walk_Rt_Rifle_Ironsights.uasset" 7
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/Death_1.uasset" 8
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/Death_2.uasset" 9
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/Death_3.uasset" 10
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/Death_Ironsights_1.uasset" 11
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/Death_Ironsights_2.uasset" 12
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/Equip_Rifle_Standing.uasset" 13
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/Fire_Rifle_Hip.uasset" 14
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/Fire_Shotgun_Hip.uasset" 15
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/Fire_Shotgun_Ironsights.uasset" 16
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/Hit_React_4.uasset" 17
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/Idle_Pistol.uasset" 18
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/Idle_Rifle_Ironsights.uasset" 19
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/Jump_From_Stand_Ironsights.uasset" 20
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/Prone_Death_1.uasset" 21
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/Prone_Death_2.uasset" 22
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/Prone_Fire_1.uasset" 23
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/Prone_Fire_2.uasset" 24
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/Prone_Idle.uasset" 25
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/Prone_Reload_Rifle.uasset" 26
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/Prone_Reload_Shotgun.uasset" 27
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/Prone_To_Stand.uasset" 28
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/Reload_Pistol.uasset" 29
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/Reload_Rifle_Ironsights.uasset" 30
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/Reload_Shotgun_Hip.uasset" 31
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/Reload_Shotgun_Ironsights.uasset" 32
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/Sprint_Fwd_Rifle.uasset" 33
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/Stand_to_Crouch_Rifle_Hip.uasset" 34
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/Stand_to_Crouch_Rifle_Ironsights.uasset" 35
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/Stand_To_Prone.uasset" 36
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/Walk_Bwd_Rifle_Ironsights.uasset" 37
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/Walk_Lt_Rifle_Ironsights.uasset" 38
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/Walk_Rt_Rifle_Ironsights.uasset" 39
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/Blueprints/Actors/ImpactEffects/ImpactEffect.uasset" 40
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/Blueprints/Actors/ImpactEffects/ImpactEffect_Pistol.uasset" 41
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 42
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/TemplateContent/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset" 43
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/TemplateContent/FirstPerson/Animations/FirstPerson_Idle.uasset" 44
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/Crouch_Idle_Rifle_Hip.uasset" 45
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/Idle_Rifle_Hip.uasset" 46
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/Jump_From_Jog.uasset" 47
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/Jump_From_Stand.uasset" 48
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip.uasset" 49
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip.uasset" 50
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip.uasset" 51
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip.uasset" 52
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/BS_CrouchWalk.uasset" 53
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/Jog_Bwd_Rifle.uasset" 54
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/Jog_Fwd_Rifle.uasset" 55
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/Jog_Lt_Rifle.uasset" 56
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/Jog_Rt_Rifle.uasset" 57
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/BS_Jog.uasset" 58
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.uasset" 59
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 60
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_AO.uasset" 61
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 62
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 63
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 64
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 65
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 66
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 67
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_LOGO_CARD.uasset" 68
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 69
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 70
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 71
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 72
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin__normals.uasset" 73
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_MAT_MASKA.uasset" 74
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_occlusion_Mobile.uasset" 75
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_Body.uasset" 76
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4Man_Logo_N.uasset" 77
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_ChestLogo.uasset" 78
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin_PhysicsAsset.uasset" 79
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.uasset" 80
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/Ue4ASP_Character.uasset" 81
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/Blueprints/Enums/WeaponType.uasset" 82
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/Blueprints/Structs/AmmoData.uasset" 83
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/Blueprints/Weapons/BP_WeaponBase.uasset" 84
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/Character/Player_Arms_BP.uasset" 85
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/TemplateContent/FirstPerson/Animations/FirstPerson_Fire.uasset" 86
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/TemplateContent/FirstPerson/Animations/FirstPersonFire_Montage.uasset" 87
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/Guns/Sniper_Rifle/Dark.uasset" 88
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/Guns/Sniper_Rifle/Detail.uasset" 89
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/Guns/Sniper_Rifle/Main.uasset" 90
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/Guns/Sniper_Rifle/Mid.uasset" 91
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/Guns/Sniper_Rifle/Sniper_rifle.uasset" 92
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/Blueprints/Weapons/BP_WeaponBase_AssaultRifle.uasset" 93
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/Blueprints/Weapons/BP_WeaponBase_Fists1.uasset" 94
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/Guns/Pistol/Details.uasset" 95
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/Guns/Pistol/Handle.uasset" 96
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/Guns/Pistol/Main.uasset" 97
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/Guns/Pistol/Main2.uasset" 98
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/Guns/Pistol/Material.uasset" 99
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/Guns/Pistol/Pistol.uasset" 100
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/Particles/FX_PistolShell.uasset" 101
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/Blueprints/Weapons/BP_WeaponBase_Pistol.uasset" 102
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/Guns/Shotgun/Barrel.uasset" 103
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/Guns/Shotgun/Detail.uasset" 104
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/Guns/Shotgun/Handle.uasset" 105
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/Guns/Shotgun/Main.uasset" 106
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/Guns/Shotgun/LongPistol.uasset" 107
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/Blueprints/Weapons/BP_WeaponBase_Shotgun.uasset" 108
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/TemplateContent/FirstPerson/Meshes/BaseMaterial.uasset" 109
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/TemplateContent/FirstPerson/Meshes/FirstPersonProjectileMaterial.uasset" 110
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/TemplateContent/FirstPerson/Meshes/FirstPersonProjectileMesh.uasset" 111
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/TemplateContent/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset" 112
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/TemplateContent/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 113
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/TemplateContent/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 114
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/TemplateContent/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 115
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/TemplateContent/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 116
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/TemplateContent/FirstPerson/Character/Textures/UE4_LOGO_CARD.uasset" 117
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/TemplateContent/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 118
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/TemplateContent/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 119
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/TemplateContent/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 120
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/TemplateContent/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 121
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/TemplateContent/FirstPerson/Character/Textures/UE4_Mannequin__normals.uasset" 122
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/TemplateContent/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 123
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/TemplateContent/FirstPerson/Character/Materials/M_UE4Man_Body.uasset" 124
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/Character/Player_Arms.uasset" 125
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/TemplateContent/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset" 126
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/Blueprints/FirstPersonCharacter.uasset" 127
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/Blueprints/Actors/WeaponsBuys/WeaponBuy_Base.uasset" 128
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/Blueprints/Actors/WeaponsBuys/WeaponBuy_Base_pistol.uasset" 129
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/Blueprints/Actors/WeaponsBuys/WeaponBuy_Base_Rifle.uasset" 130
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/Blueprints/Enums/HasWeapon.uasset" 131
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/Blueprints/Structs/WeaponData.uasset" 132
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/Blueprints/Weapons/BP_WeaponBase_Fists.uasset" 133
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/Character/Player_Arms_PhysicsAsset.uasset" 134
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/Character/Player_Arms_Skeleton.uasset" 135
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/Guns/Detail.uasset" 136
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/Guns/Main.uasset" 137
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/Guns/Main2.uasset" 138
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/Guns/Muzzle.uasset" 139
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/Guns/Lighnting_Gun/Barrel.uasset" 140
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/Guns/Lighnting_Gun/Detail.uasset" 141
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/Guns/Lighnting_Gun/Main.uasset" 142
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/Guns/Lighnting_Gun/Trigger.uasset" 143
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/Guns/Lighnting_Gun/Lightning_Gun.uasset" 144
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Materials/M_Basic_Wall.uasset" 145
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Architecture/Pillar_50x500.uasset" 146
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Architecture/Wall_400x300.uasset" 147
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Architecture/Wall_400x400.uasset" 148
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Architecture/Wall_500x500.uasset" 149
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 150
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 151
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Audio/Collapse01.uasset" 152
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Audio/Collapse02.uasset" 153
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Audio/Explosion01.uasset" 154
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Audio/Explosion02.uasset" 155
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Audio/Fire01.uasset" 156
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Audio/Fire_Sparks01.uasset" 157
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Audio/Light01.uasset" 158
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Audio/Light01_Cue.uasset" 159
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Audio/Light02.uasset" 160
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Audio/Light02_Cue.uasset" 161
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Audio/Smoke01.uasset" 162
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Audio/Starter_Birds01.uasset" 163
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Audio/Starter_Music01.uasset" 164
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Audio/Starter_Wind05.uasset" 165
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Audio/Starter_Wind06.uasset" 166
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Audio/Steam01.uasset" 167
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Audio/Explosion_Cue.uasset" 168
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Burst_M.uasset" 169
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Particles/Materials/M_Burst.uasset" 170
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 171
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 172
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 173
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 174
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 175
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 176
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 177
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 178
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Particles/P_Explosion.uasset" 179
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 180
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 181
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 182
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Bush_D.uasset" 183
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Bush_N.uasset" 184
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Props/Materials/M_Bush.uasset" 185
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Props/SM_Bush.uasset" 186
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Chair_M.uasset" 187
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Chair_N.uasset" 188
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Props/Materials/M_Chair.uasset" 189
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Props/SM_Couch.uasset" 190
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Materials/M_Glass.uasset" 191
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Door_M.uasset" 192
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Door_N.uasset" 193
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Props/Materials/M_Door.uasset" 194
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Props/SM_Door.uasset" 195
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 196
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 197
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 198
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 199
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 200
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_RockMesh_M.uasset" 201
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_RockMesh_N.uasset" 202
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Props/Materials/M_Rock.uasset" 203
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Props/SM_Rock.uasset" 204
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Shelf_M.uasset" 205
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Shelf_N.uasset" 206
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Props/Materials/M_Shelf.uasset" 207
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Props/SM_Shelf.uasset" 208
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Materials/M_Basic_Floor.uasset" 209
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Props/SM_Stairs.uasset" 210
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Shapes/Shape_Cone.uasset" 211
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 212
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 213
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Shapes/Shape_Pipe.uasset" 214
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 215
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 216
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Shapes/Shape_Plane.uasset" 217
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Shapes/Shape_Torus.uasset" 218
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Shapes/Shape_Trim.uasset" 219
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 220
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 221
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 222
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Shapes/Shape_Tube.uasset" 223
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 224
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 225
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 226
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 227
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 228
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 229
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Sign.uasset" 230
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Round.uasset" 231
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 232
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 233
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Materials/Functions/Basic/BreakSet.uasset" 234
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Materials/Functions/Basic/MakeSet.uasset" 235
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Materials/Functions/Basic/Roughness.uasset" 236
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Materials/Functions/Texture/Dye_SingleColor.uasset" 237
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Source/Textures/T_BasicGrid_M.uasset" 238
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Materials/Functions/Texture/Tex_SimpleGrid.uasset" 239
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Materials/Functions/UV/UV_ObjectScalable.uasset" 240
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Materials/Functions/UV/UV_SetupGrid.uasset" 241
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Source/Textures/T_BasicGrid_N.uasset" 242
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Materials/Base/M_SuperGrid_SingleColor.uasset" 243
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Materials/Palette/Grids/M_SuperGrid_Default.uasset" 244
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Source/Meshes/SuperGrid_Box.uasset" 245
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Source/Meshes/SuperGrid_BoxCentered.uasset" 246
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Blueprints/SuperGrid_DynamicStairs.uasset" 247
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Blueprints/S_SuperGridGroup.uasset" 248
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Blueprints/SuperGridAssetInterface.uasset" 249
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Source/Textures/Templates/T_SGGroup.uasset" 250
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Blueprints/SuperGrid_Group.uasset" 251
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Materials/Palette/Grids/M_SuperGrid_DefaultBlack.uasset" 252
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Source/Textures/Templates/T_SGLogo.uasset" 253
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Blueprints/SuperGrid_Master.uasset" 254
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Materials/Functions/Basic/Layout_LocalSides.uasset" 255
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Materials/Functions/Basic/Layout_WorldSides.uasset" 256
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Materials/Base/M_SuperGrid_Orientation.uasset" 257
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Materials/Palette/Advanced/M_SuperGrid_Auto.uasset" 258
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Source/Meshes/SuperGrid_CylinderFull.uasset" 259
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Blueprints/SuperGrid_Wall.uasset" 260
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Materials/Functions/Texture/Dye_MultiColor.uasset" 261
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Materials/Base/M_Tutorial.uasset" 262
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Materials/Functions/Texture/Dye_4ColorBasic.uasset" 263
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Materials/Functions/UV/UV_WorldScalable.uasset" 264
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Source/Textures/T_ConcreteWall_M.uasset" 265
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Source/Textures/T_ConcreteWall_N.uasset" 266
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Source/Textures/T_ConcreteWall_R.uasset" 267
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Materials/Base/M_SuperGrid_Architectural.uasset" 268
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Materials/Palette/Advanced/M_SuperGrid_Architectural_Black.uasset" 269
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Materials/Functions/UV/UV_CustomTexture.uasset" 270
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Source/Textures/T_Hexagon_N.uasset" 271
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Source/Textures/T_HexagonRandom.uasset" 272
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Materials/Base/M_SuperGrid_Hexagon.uasset" 273
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Materials/Palette/Advanced/M_SuperGrid_HexagonOrange.uasset" 274
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Materials/Palette/Advanced/M_SuperGrid_HexagonOrangeC.uasset" 275
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Materials/Palette/Advanced/M_SuperGrid_HexagonRed.uasset" 276
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 277
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Source/Textures/T_CustomMetal_M.uasset" 278
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Source/Textures/T_CustomMetal_N.uasset" 279
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Materials/Base/M_SuperGrid_MetalCustom.uasset" 280
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Materials/Palette/Advanced/M_SuperGrid_MetalBar_Dark.uasset" 281
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Materials/Palette/Advanced/M_SuperGrid_MetalBar_White.uasset" 282
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Source/Textures/T_ModernGrid_M.uasset" 283
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Source/Textures/T_ModernGrid_N.uasset" 284
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Materials/Base/M_SuperGrid_Modern.uasset" 285
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Materials/Palette/Advanced/M_SuperGrid_ModernDark.uasset" 286
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Materials/Palette/Advanced/M_SuperGrid_ModernLight.uasset" 287
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Materials/Palette/Advanced/M_SuperGrid_ModernNeutral.uasset" 288
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Source/Textures/T_Panels_M.uasset" 289
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Source/Textures/T_Panels_N.uasset" 290
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Materials/Base/M_SuperGrid_PanelCustom.uasset" 291
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Materials/Palette/Advanced/M_SuperGrid_PanelDark.uasset" 292
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Materials/Palette/Advanced/M_SuperGrid_PanelRed.uasset" 293
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Materials/Palette/Advanced/M_SuperGrid_PanelWhite.uasset" 294
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/LinearSine.uasset" 295
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Source/Textures/T_DotGrid_M.uasset" 296
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Source/Textures/T_DotGrid_N.uasset" 297
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Materials/Base/M_SuperGrid_Glowing_MultiColor.uasset" 298
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Source/Textures/T_StoneGrid_M.uasset" 299
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Source/Textures/T_StoneGrid_N.uasset" 300
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Materials/Palette/Basic/M_SuperGrid_GlowingLava.uasset" 301
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Materials/Palette/Basic/M_SuperGrid_MetalDark.uasset" 302
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Materials/Palette/Basic/M_SuperGrid_MetalDark3.uasset" 303
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Materials/Palette/Basic/M_SuperGrid_MetalGlow.uasset" 304
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Materials/Palette/Basic/M_SuperGrid_MetalLight.uasset" 305
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Materials/Palette/Basic/M_SuperGrid_Soil.uasset" 306
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Materials/Palette/Basic/M_SuperGrid_Stone.uasset" 307
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Materials/Palette/Grids/M_SuperGrid_BlackSheet.uasset" 308
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Materials/Palette/Grids/M_SuperGrid_Chess.uasset" 309
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Materials/Base/M_SuperGrid_MultiColor.uasset" 310
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Materials/Palette/Grids/M_SuperGrid_DangerZone.uasset" 311
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Materials/Palette/Grids/M_SuperGrid_DoubleColor.uasset" 312
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Materials/Palette/Grids/M_SuperGrid_White.uasset" 313
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Sine_Remapped.uasset" 314
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Materials/Functions/UV/UV_CustomPanner.uasset" 315
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Source/Textures/T_Distortion_N.uasset" 316
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Materials/Base/M_SuperGrid_HoloRefract.uasset" 317
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Materials/Palette/Holographic/M_SuperGrid_HoloRefract_Cyan.uasset" 318
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Materials/Base/M_SuperGrid_Holographic.uasset" 319
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Materials/Palette/Holographic/M_SuperGrid_Holo_Color.uasset" 320
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Materials/Palette/Holographic/M_SuperGrid_Holo_Mono.uasset" 321
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Source/Textures/Templates/T_TemplateGrid.uasset" 322
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Source/Textures/Templates/T_TemplateHuman.uasset" 323
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Materials/Base/M_SuperGrid_Template.uasset" 324
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Source/Textures/Templates/T_TemplateBarrel.uasset" 325
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Materials/Palette/Templates/M_SuperGrid_Barrel.uasset" 326
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Source/Textures/Templates/T_TemplateLlama.uasset" 327
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Materials/Palette/Templates/M_SuperGrid_Llama.uasset" 328
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Materials/Palette/Templates/M_SuperGrid_Te_Human.uasset" 329
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Source/Meshes/SuperGrid_Arch1.uasset" 330
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Source/Meshes/SuperGrid_Arch2.uasset" 331
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Source/Meshes/SuperGrid_BoxHighRes.uasset" 332
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Source/Meshes/SuperGrid_Cone.uasset" 333
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Source/Meshes/SuperGrid_CornerInner.uasset" 334
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Source/Meshes/SuperGrid_CornerOuter.uasset" 335
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Source/Meshes/SuperGrid_CylinderBend.uasset" 336
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Source/Meshes/SuperGrid_CylinderHalf.uasset" 337
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Source/Meshes/SuperGrid_CylinderQuarter.uasset" 338
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Source/Meshes/SuperGrid_Hexagon.uasset" 339
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Source/Meshes/SuperGrid_Plane.uasset" 340
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Source/Meshes/SuperGrid_Pyramide.uasset" 341
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Source/Textures/T_BasicGridW_M.uasset" 342
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Materials/Palette/Grids/M_SuperGrid_Walkable.uasset" 343
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Source/Meshes/SuperGrid_Ramp.uasset" 344
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Source/Meshes/SuperGrid_RingFull.uasset" 345
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Source/Meshes/SuperGrid_RingPiece.uasset" 346
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Source/Meshes/SuperGrid_RingQuarter.uasset" 347
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Source/Meshes/SuperGrid_SlantedBox22.uasset" 348
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Source/Meshes/SuperGrid_SlantedBox35.uasset" 349
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Source/Meshes/SuperGrid_SlantedBox45.uasset" 350
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Source/Meshes/SuperGrid_Slope.uasset" 351
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Source/Meshes/SuperGrid_Stairs.uasset" 352
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Source/Textures/T_Hexagon_M.uasset" 353
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Source/Textures/T_Plate_M.uasset" 354
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/SuperGrid/StarterPack/Source/Textures/T_Plate_N.uasset" 355
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/TemplateContent/FirstPerson/Animations/FirstPerson_JumpEnd.uasset" 356
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/TemplateContent/FirstPerson/Animations/FirstPerson_JumpLoop.uasset" 357
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/TemplateContent/FirstPerson/Animations/FirstPerson_JumpStart.uasset" 358
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/TemplateContent/FirstPerson/Animations/FirstPerson_Run.uasset" 359
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/TemplateContent/FirstPerson/Animations/FirstPerson_AnimBP.uasset" 360
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/TemplateContent/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 361
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/TemplateContent/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 362
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/TemplateContent/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 363
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/TemplateContent/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 364
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/TemplateContent/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 365
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/TemplateContent/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 366
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/TemplateContent/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 367
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/TemplateContent/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 368
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/TemplateContent/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uasset" 369
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/TemplateContent/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset" 370
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/TemplateContent/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.uasset" 371
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/TemplateContent/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset" 372
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/TemplateContent/FirstPerson/FPWeapon/Textures/T_FPGun_M.uasset" 373
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/TemplateContent/FirstPerson/FPWeapon/Textures/T_FPGun_N.uasset" 374
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/TemplateContent/FirstPerson/FPWeapon/Materials/M_FPGun.uasset" 375
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/TemplateContent/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset" 376
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/TemplateContent/FirstPerson/FPWeapon/Mesh/SK_FPGun.uasset" 377
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/TemplateContent/FirstPerson/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset" 378
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/TemplateContent/FirstPersonBP/FirstPersonOverview.uasset" 379
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/TemplateContent/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" 380
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/TemplateContent/FirstPerson/Textures/FirstPersonCrosshair.uasset" 381
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/Blueprints/FirstPersonHUD.uasset" 382
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/Blueprints/FirstPersonGameMode.uasset" 383
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/TemplateContent/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset" 384
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/TemplateContent/Geometry/Meshes/CubeMaterial.uasset" 385
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/TemplateContent/Geometry/Meshes/1M_Cube_Chamfer.uasset" 386
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 387
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 388
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 389
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 390
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 391
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 392
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 393
+"../../../Engine/Content/BasicShapes/Cone.uasset" 394
+"../../../Engine/Content/BasicShapes/Plane.uasset" 395
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 396
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 397
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 398
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 399
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 400
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 401
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 402
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 403
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 404
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 405
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 406
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 407
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 408
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 409
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 410
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 411
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 412
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 413
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 414
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 415
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 416
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 417
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 418
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 419
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 420
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 421
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 422
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 423
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 424
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 425
+"../../../Engine/Content/EditorResources/S_Note.uasset" 426
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 427
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 428
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 429
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 430
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 431
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 432
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 433
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 434
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 435
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 436
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 437
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 438
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 439
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 440
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 441
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 442
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 443
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 444
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 445
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 446
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 447
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 448
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 449
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 450
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 451
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 452
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 453
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 454
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 455
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 456
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 457
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 458
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 459
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 460
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 461
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 462
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 463
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 464
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 465
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 466
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 467
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 468
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 469
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 470
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 471
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 472
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 473
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 474
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 475
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 476
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 477
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 478
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 479
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 480
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 481
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 482
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 483
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 484
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 485
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 486
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 487
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 488
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 489
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 490
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 491
+"../../../Engine/Content/EngineResources/Black.uasset" 492
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 493
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 494
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 495
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 496
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 497
+"../../../Engine/Content/EngineSounds/Master.uasset" 498
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 499
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 500
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 501
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 502
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 503
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 504
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 505
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 506
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 507
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 508
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 509
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 510
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 511
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 512
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 513
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 514
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 515
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 516
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 517
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 518
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 519
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 520
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 521
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 522
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 523
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 524
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 525
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 526
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 527
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 528
+"../../../Engine/Content/Tutorial/SubEditors/MaterialEditorTutorial.uasset" 529
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 530
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 531
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 532
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 533
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 534
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 535
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 536
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 537
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 538
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 539
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 540
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 541
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 542
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 543
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 544
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 545
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 546
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraBooleanLogicOps.uasset" 547
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraCoordinateSpace.uasset" 548
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uasset" 549
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraOrientationAxis.uasset" 550
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 551
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 552
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 553
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 554
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 555
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 556
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 557
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 558
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 559
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 560
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 561
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 562
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 563
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 564
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 565
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 566
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/Maps/TestMap_BuiltData.uasset" 567
+"../../../Engine/Content/BasicShapes/Cube.uasset" 568
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 569
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/TemplateContent/Geometry/Meshes/1M_Cube.uasset" 570
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/Maps/TestMap.umap" 571
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/Crouch_Idle_Rifle_Ironsights.uasset" 572
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Ironsights.uasset" 573
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/Equip_Pistol_Standing.uasset" 574
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/Fire_Rifle_Ironsights.uasset" 575
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/Hit_React_1.uasset" 576
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/Hit_React_2.uasset" 577
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/Hit_React_3.uasset" 578
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/Idle_Rifle_Hip_Break1.uasset" 579
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/Idle_Rifle_Hip_Break2.uasset" 580
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/Reload_Rifle_Hip.uasset" 581
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/Walk_Fwd_Rifle_Ironsights.uasset" 582
+"../../../Engine/Content/TemplateResources/M_Template_Master.uasset" 583
+"../../../Engine/Content/TemplateResources/MI_Template_BaseGray_03_Metal.uasset" 584
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/AnimStarterPack/Showcase.umap" 585
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 586
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 587
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 588
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 589
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 590
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 591
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 592
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 593
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 594
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 595
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 596
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 597
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 598
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Materials/M_AssetPlatform.uasset" 599
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 600
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 601
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 602
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 603
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 604
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 605
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 606
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 607
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Maps/Advanced_Lighting.umap" 608
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 609
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_MacroVariation.uasset" 610
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 611
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 612
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 613
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 614
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 615
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Materials/M_Metal_Copper.uasset" 616
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Statue_M.uasset" 617
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Statue_N.uasset" 618
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 619
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Architecture/Floor_400x400.uasset" 620
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 621
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Props/SM_Chair.uasset" 622
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Props/Materials/M_Statue.uasset" 623
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Props/SM_Statue.uasset" 624
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_TableRound_M.uasset" 625
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_TableRound_N.uasset" 626
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Props/Materials/M_TableRound.uasset" 627
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Props/SM_TableRound.uasset" 628
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Maps/Minimal_Default.umap" 629
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Audio/Fire01_Cue.uasset" 630
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 631
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 632
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 633
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Water_N.uasset" 634
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 635
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 636
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Particles/P_Fire.uasset" 637
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 638
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Audio/Smoke01_Cue.uasset" 639
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Particles/P_Smoke.uasset" 640
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 641
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 642
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Spark_Core.uasset" 643
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Particles/Materials/M_Spark.uasset" 644
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Particles/P_Sparks.uasset" 645
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 646
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Audio/Steam01_Cue.uasset" 647
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Particles/P_Steam_Lit.uasset" 648
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 649
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Lamp_M.uasset" 650
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Lamp_N.uasset" 651
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Props/Materials/M_Lamp.uasset" 652
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 653
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 654
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 655
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 656
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 657
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 658
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 659
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 660
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 661
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 662
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 663
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 664
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 665
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 666
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 667
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 668
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 669
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 670
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 671
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 672
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 673
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 674
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 675
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 676
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 677
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 678
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 679
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 680
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 681
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 682
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 683
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 684
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 685
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 686
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 687
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 688
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Gradinet_01.uasset" 689
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 690
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 691
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 692
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 693
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 694
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 695
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 696
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 697
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 698
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 699
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 700
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 701
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 702
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 703
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 704
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 705
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 706
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 707
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 708
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 709
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 710
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 711
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Materials/M_Ground_Grass.uasset" 712
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 713
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 714
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 715
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 716
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 717
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Materials/M_Ground_Moss.uasset" 718
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 719
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 720
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Materials/M_Metal_Gold.uasset" 721
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 722
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Materials/M_Metal_Rust.uasset" 723
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 724
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 725
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Materials/M_Metal_Steel.uasset" 726
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 727
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 728
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 729
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 730
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 731
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 732
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 733
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 734
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Materials/M_Rock_Slate.uasset" 735
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 736
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 737
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 738
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 739
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 740
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 741
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 742
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 743
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 744
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 745
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 746
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Materials/M_Tech_Panel.uasset" 747
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Materials/M_Water_Lake.uasset" 748
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Water_M.uasset" 749
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Materials/M_Water_Ocean.uasset" 750
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 751
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 752
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 753
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 754
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 755
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 756
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 757
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 758
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Materials/M_Wood_Oak.uasset" 759
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 760
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 761
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Materials/M_Wood_Pine.uasset" 762
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 763
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 764
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 765
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Architecture/Wall_400x200.uasset" 766
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 767
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 768
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Audio/Collapse_Cue.uasset" 769
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 770
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 771
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 772
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 773
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Props/MaterialSphere.uasset" 774
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Frame_M.uasset" 775
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Textures/T_Frame_N.uasset" 776
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Props/Materials/M_Frame.uasset" 777
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Props/SM_CornerFrame.uasset" 778
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Props/SM_DoorFrame.uasset" 779
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Props/SM_GlassWindow.uasset" 780
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Props/SM_PillarFrame.uasset" 781
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Props/SM_PillarFrame300.uasset" 782
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Props/SM_WindowFrame.uasset" 783
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Shapes/Shape_Cube.uasset" 784
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 785
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Shapes/Shape_Sphere.uasset" 786
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/StarterContent/Maps/StarterMap.umap" 787
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/TemplateContent/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset" 788
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/TemplateContent/FirstPerson/Meshes/CubeMaterialOverride.uasset" 789
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/TemplateContent/Geometry/Meshes/TemplateFloor.uasset" 790
+"../../../../../Users/Andre Gagliardi/Documents/Unreal Projects/Cacoethes/Content/TemplateContent/FirstPersonBP/Maps/FirstPersonExampleMap.umap" 791
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 792
+"../../../Engine/Content/Maps/Entry.umap" 793
